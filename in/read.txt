@@ -1,0 +1,1 @@
+Here is where the input images are stored, place them inside a folder like the one provided.
