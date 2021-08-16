@@ -6,7 +6,7 @@ Requirements:<br>
 - opencv<br>
 
 Sample input:
-![16](https://user-images.githubusercontent.com/82570638/129541843-f0f26740-c1ab-4339-8975-dc81e60b03b7.jpg)
+![16](https://user-images.githubusercontent.com/82570638/129541843-f0f26740-c1ab-4339-8975-dc81e60b03b7.jpg = 100x20)
 
 Sample output:
 ![16 jpg_index-0](https://user-images.githubusercontent.com/82570638/129541891-5d7399b9-1323-45a9-a79e-b785ed7537ed.png)
