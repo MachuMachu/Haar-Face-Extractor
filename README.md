@@ -16,4 +16,4 @@ Sample input:<br>
 !Note:<br>
 From my sample data of 1,847 images, it extracted a total of 1,570 images, only 886 of which has actual faces.<br>
 Busy images might extract undesirable parts, such as background, objects and body parts that is not the whole face.<br>
-
+Faces might not be extracted if the image is rotated, the face is not facing directly etc.
