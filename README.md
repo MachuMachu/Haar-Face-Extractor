@@ -6,10 +6,10 @@ Requirements:<br>
 - opencv<br>
 
 Sample input:
-![1](https://user-images.githubusercontent.com/82570638/129541625-22af1139-3bc5-4fd9-a960-0c1ae883e1ba.jpg)
-![10](https://user-images.githubusercontent.com/82570638/129541644-87fdd00b-beeb-4a76-b518-3dcf055bfce4.jpg)
+![16](https://user-images.githubusercontent.com/82570638/129541843-f0f26740-c1ab-4339-8975-dc81e60b03b7.jpg)
 
 Sample output:
+![16 jpg_index-0](https://user-images.githubusercontent.com/82570638/129541891-5d7399b9-1323-45a9-a79e-b785ed7537ed.png)
 
 
 <br>
