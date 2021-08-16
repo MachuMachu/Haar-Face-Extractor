@@ -7,8 +7,10 @@ Requirements:<br>
 
 Sample input:<br>
 <img src="./in/Morgan Freeman/16.jpg" width=200 height=200>
+<img src="./in/Morgan Freeman/12.jpg" wdith = 200 height=200>
 <br>Sample output:<br>
-<img src="https://user-images.githubusercontent.com/82570638/129541891-5d7399b9-1323-45a9-a79e-b785ed7537ed.png" width=200 height=200>
+<img src="./out/Morgan Freeman/16.jpg_index-0.png" width=200 height=200>
+<img src="./out/Morgan Freeman/12.jpg_index-0.png" width=200 height=200>
 
 <br>
 !Note:<br>
